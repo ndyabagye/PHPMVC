@@ -1,0 +1,15 @@
+{
+    "name": "henryndyabagye/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ndyabagye Henry",
+            "email": "ndyabagyehenrytusi@gmail.com"
+        }
+    ],
+    "require": {}
+}
